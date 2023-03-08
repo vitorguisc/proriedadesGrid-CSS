@@ -22,16 +22,13 @@ grid-auto-flow
 
 ## ✒️ Autores
 
-* **Vitorr Guilherme** - *Doc e exemplos* - [umdesenvolvedor](https://github.com/vitorguisc)
+* **Vitor Guilherme** - *Doc e exemplos* - [VitorGuilherme](https://github.com/vitorguisc)
 
 ## 📄 Fontes
 
-Este projeto usou como - [fonte](https://css-tricks.com/snippets/css/complete-guide-grid/) para construção.
+Este projeto usou como fonte: [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) para construção.
 
 ## 🎁 Obrigado por visitar
 
 * Conte a outras pessoas sobre este projeto 📢;
 
-
-
-# proriedadesGrid-CSS
