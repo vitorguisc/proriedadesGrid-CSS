@@ -22,6 +22,9 @@ grid-auto-flow
 ```
 grid-auto-rows
 ```
+```
+grid-column-end
+```
 
 ## ✒️ Autores
 
